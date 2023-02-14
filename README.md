@@ -6,3 +6,5 @@ A blockchain project for storing files in a decentralized storage system
 
 
 -clone and run locally 👍 enjoy
+
+Inspiration : web3storage and Infura
